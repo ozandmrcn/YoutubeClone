@@ -9,7 +9,6 @@ This application allows users to browse trending videos, explore different categ
 - Category-based filtering: Music, Gaming, News, Sports, etc.  
 - Video playback using `react-player`  
 - Search functionality  
-- Moment-based timestamps  
 - Responsive layout with TailwindCSS  
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technologies Used  
