@@ -6,7 +6,7 @@ This application allows users to browse trending videos, explore different categ
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Features  
 - Real-time video and comment fetching via YouTube API  
-- Category-based filtering: Music, Gaming, News, Sports, etc.  
+- Category-based : Music, Gaming, News, Sports, etc.  
 - Video playback using `react-player`  
 - Search functionality  
 - Responsive layout with TailwindCSS  
